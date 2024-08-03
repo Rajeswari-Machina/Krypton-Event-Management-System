@@ -1,32 +1,13 @@
 {
-    "version": 2,
-    "builds": [
-        {
-            "src":"eventManagement/wsgi.py",
-            "use": "@vercel/python",
-            "config": { "maxLambdaSize": "15mb" ,"runtime": "python3"}
-        },
-        {
-            "src": "build_files.sh",
-            "use": "@vercel/static-build",
-            "config": { "distDir": "staticfiles_build" }
-        }
-    ],
+    "builds": [{
+        "src": "eventManagement/wsgi.py",
+        "use": "@ardnt/vercel-python-wsgi",
+        "config": { "maxLambdaSize": "15mb" }
+    }],
     "routes": [
         {
-            "src": "/static/(.*)",
-            "dest": "/static/$1"
-        },
-        {
-            "src": "/media/(.*)",
-            "dest": "/media/$1"
-        },
-        {
             "src": "/(.*)",
-            "dest": "/eventManagement/wsgi.py"
+            "dest": "eventManagement/wsgi.py"
         }
-    ],
-    "env": {
-        "DJANGO_SETTINGS_MODULE": "eventManagement.settings"
-    }
+    ]
 }
