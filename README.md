@@ -1,13 +1,11 @@
 # Event Management System for RGUKT RK Valley
 ## TEAM KRYPTON
-## Badges
 
 ![Django](https://img.shields.io/badge/Django-5.0.7-green) ![HTML](https://img.shields.io/badge/HTML-5-orange) ![CSS](https://img.shields.io/badge/CSS-3-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-ES7-yellow)
 ### Index
 - [overview](#Overview)
 - [Features](#Key-Features)
 - [Technologies Used](#Tech-Stack)
-- [Preview](#Screenshots)
 - [ Demo](#Demo)
 - [Run Locally](#Installation-and-Setup)
 - [Deployment](#Deployment)
@@ -62,16 +60,8 @@ python manage.py runserver
 
 **Databases:** SQLITE
 
-
-
-## Screenshots
-
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
-
-
 ## Demo
-![Project Demo]()
-
+view at [click](https://www.linkedin.com/posts/rajeswari-machina_hackathon-webdevelopment-eventmanagement-activity-7226303647234547713-mejN?utm_source=share&utm_medium=member_desktop)
 ## Run Locally
 
 Clone the project
