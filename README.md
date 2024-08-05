@@ -16,7 +16,7 @@
 
 ## Overview:
 [**Krypton**](https://via.placeholder.com/10/00b48a?text=+) is a comprehensive web application  designed to streamline the planning, promotion, execution, and feedback process for campus events. This solution caters to students, faculty, and event organizers, providing a centralized platform for efficient event management in universitiy.
-![Logo](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/th5xamgrr6se0x5ro4g6.png)
+![LOGO](https://github.com/user-attachments/assets/bf05dda7-9037-44ab-ba95-599bd9fced4b)
 
 ## Key Features
 
