@@ -42,7 +42,7 @@
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![Homepage](https://github.com/user-attachments/assets/315d42d8-7551-4c1b-83b9-58bfb5812be7))
 
 ## Installation and Setup
  1. ### Clone the repository:
