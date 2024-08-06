@@ -34,7 +34,7 @@ Mail remainder system to the users about events,registrations,security alerts.(*
 ## Installation and Setup
  1. ### Clone the repository:
 ``` bash 
-git clone https://github.com/your-repo/event-management-system.git
+git clone  https://github.com/Rajeswari-Machina/Krypton-Event-Management-System/
 cd event-management-system
 ```
  2. ### Install dependencies:
@@ -62,31 +62,6 @@ python manage.py runserver
 
 ## Demo
 view at [click](https://www.linkedin.com/posts/rajeswari-machina_hackathon-webdevelopment-eventmanagement-activity-7226303647234547713-mejN?utm_source=share&utm_medium=member_desktop)
-## Run Locally
-
-Clone the project
-
-```bash
-  git clone https://link-to-project
-```
-
-Go to the project directory
-
-```bash
-  cd my-project
-```
-
-Install dependencies
-
-```bash
-  npm install
-```
-
-Start the server
-
-```bash
-  npm run start
-```
 
 
 ## Deployment
