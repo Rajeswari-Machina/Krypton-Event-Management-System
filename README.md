@@ -72,7 +72,7 @@ The website is live at [visit](https://teamkrypton.pythonanywhere.com/)
 
 | GitHub Profile                 |        Contribution    |
 |--------------------------------------------|-----------------|
-|[@Rajeswari Machina ](https://github.com/Rajeswari-Machina)           | Backend,Deployment,Documentation,email templates |
+|[@Rajeswari Machina ](https://github.com/Rajeswari-Machina)           | Frontend,Backend,Deployment,Documentation,email templates |
 |[@Nishka Prasan](https://github.com/NishkaPrasan)     | Front End     |
 | [@Vardhireddy Mani Kunar Reddy](https://github.com/Mani1655B)             | Backend ,Database |
 | [@Gangavarapu Rameswar](https://github.com/RamEswar78)     | AI chatbot integration,backend |
